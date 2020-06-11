@@ -1,0 +1,19 @@
+body{
+    background-color:#E5E5E5;
+    font-family: ‘Reem Kufi’, sans-serif;
+    height: 100%;
+}
+
+.card-header{
+    background-color: gray;
+    font-size: x-large;
+    color: white;
+    font-weight:100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:green; 
+}
+
